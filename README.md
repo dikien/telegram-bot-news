@@ -1,7 +1,7 @@
 # Telegram Bot News
 A tutorial on creating a Python Telegram bot using AWS Lambda with AWS API Gateway.
 
-![Telegram Bot](https://github.com/dikien/telegram-bot-news/resources/yahoo-news.png)
+![Telegram Bot](https://github.com/dikien/telegram-bot-news/blob/master/resources/yahoo-news.png)
 
 ## Setup
 I am choosing Asia Pacific (Seoul) region for AWS Lambda and Asia Pacific (Seoul) region for AWS API Gateway.
@@ -144,7 +144,7 @@ $ {"ok":true,"result":true,"description":"Webhook was deleted"}
 Usage: ```/news```
 
 ### See Also
-[Telegram Bot using AWS API Gateway and AWS Lambda](https://github.com/lesterchan/telegram-bot)
-[Skeleton code for quickly getting Python Telegram Bots up and running](https://github.com/mamcmanus/pytelebot)
-[Telegram Bot can control Torrent system(Deluge) on Remote Server](https://github.com/seungjuchoi/telegram-control-deluge)
-[Publishing Your Skill Code to Lambda via the Command Line Interface](https://developer.amazon.com/public/community/post/Tx1UE9W1NQ0GYII/Publishing-Your-Skill-Code-to-Lambda-via-the-Command-Line-Interface)
+- [Telegram Bot using AWS API Gateway and AWS Lambda](https://github.com/lesterchan/telegram-bot)
+- [Skeleton code for quickly getting Python Telegram Bots up and running](https://github.com/mamcmanus/pytelebot)
+- [Telegram Bot can control Torrent system(Deluge) on Remote Server](https://github.com/seungjuchoi/telegram-control-deluge) 
+- [Publishing Your Skill Code to Lambda via the Command Line Interface](https://developer.amazon.com/public/community/post/Tx1UE9W1NQ0GYII/Publishing-Your-Skill-Code-to-Lambda-via-the-Command-Line-Interface)
