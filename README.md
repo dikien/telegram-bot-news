@@ -10,7 +10,7 @@ I am choosing Asia Pacific (Seoul) region for AWS Lambda and Asia Pacific (Seoul
 1. Go to [Telegram Web](https://web.telegram.org/).
 3. Start a chat with [@BotFather](https://telegram.me/BotFather).
 4. Type "/start".
-5. Type "/newbot" to create a new bot. I named my bot "YahooNewsDigest_bot".
+5. Type "/newbot" to create a new bot. I named my bot [YahooNewsDigest_bot](https://telegram.me/YahooNewsDigest_bot).
 6. Note the HTTP API access token that @BotFather will reply you after you created the bot.
 
 ### Checkout Code
